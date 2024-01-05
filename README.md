@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dadoktor8
-- 👀 I’m interested in Game Development (c# - unity)
+- 👋 Hi, I’m DocJenny
+- 👀 I’m a Game Programmer and Generalist Web Dev.
 - 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on Games and Apps Development
 - Email me at dadoktor8@gmail.com
